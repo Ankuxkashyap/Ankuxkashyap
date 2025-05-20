@@ -1,16 +1,22 @@
-## Hi there 👋
+ <div align="center">
+<img src="https://github.com/AnthonyQuispe/AnthonyQuispe/blob/main/assets/CartoonV.png" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1500&height=200&lines=Hi+Nice+to+meet+you+%F0%9F%AB%B1%F0%9F%8F%BC%E2%80%8D%F0%9F%AB%B2%F0%9F%8F%BB+;My+name+is+Ankit+Kashyap;I'm+a+Full+Stack+Engineer" alt="Typing SVG"  width="70%" /></a>
+<br><br>
 
-<!--
-**Ankuxkashyap/Ankuxkashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <pre>
+💼BrainStation • Back-End Dev • Front-End Dev
+💻 JavaScript • React • Node.js • Express • MongoDB
+🎮 Music • Gaming • Coding
+📫 Reach me at **ankitdochak_0001@gmail.com**
+  <br>
+  You can find me on:
+  </pre>
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankuxkashyap&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Ankuxkashyap" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ankuxkashyap&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Ankuxkashyap" />
+  </div>
+  <br>
+</div>
