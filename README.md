@@ -1,4 +1,4 @@
-
+ <div align="center">
 <div align="center">
   <img src="https://github.com/Ankuxkashyap/Ankuxkashyap/blob/main/assets/avatar_1747346587.png" width="25%" align="right" style="border-radius: 50%;" />
 </div>
