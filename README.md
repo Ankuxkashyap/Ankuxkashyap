@@ -14,6 +14,8 @@
 📫 Reach me at **ankitdochak_0001@gmail.com**
   <br>
   You can find me on:
+   [LinkedIn](https://www.linkedin.com/in/ankitkashyap-dev/) · 
+   [X](https://x.com/AnkuxKashyap)
   </pre>
   <br><br>
 
