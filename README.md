@@ -20,7 +20,7 @@
   <br><br>
 
   <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankuxkashyap&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Ankuxkashyap" />
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankuxkashyap&layout=compact&theme=dracula" />
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ankuxkashyap&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Ankuxkashyap" />
   </div>
   <br>
