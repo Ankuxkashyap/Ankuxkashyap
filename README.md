@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ankuxkashyap/Ankuxkashyap/main/assets/logo.png" width="180" align="right" style="border-radius:50%;" />
+<img src="https://raw.githubusercontent.com/Ankuxkashyap/Ankuxkashyap/main/assets/avatar_1747346587" width="180" align="right" style="border-radius:50%;" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&center=true&vCenter=true&width=900&height=120&lines=Hi+Nice+to+meet+you+👋;My+name+is+Ankit+Kashyap;I'm+a+Full+Stack+Developer" width="70%" />
 
