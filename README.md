@@ -24,4 +24,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ankuxkashyap&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Ankuxkashyap" />
   </div>
   <br>
+  ## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Ankuxkashyap/Ankuxkashyap/blob/output/github-contribution-grid-snake.svg)
 </div>
