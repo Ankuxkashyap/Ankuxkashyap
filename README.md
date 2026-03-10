@@ -1,30 +1,36 @@
- <div align="center">
 <div align="center">
-  <img src="https://github.com/Ankuxkashyap/Ankuxkashyap/blob/main/assets/avatar_1747346587.png" width="25%" align="right" style="border-radius: 50%;" />
-</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1500&height=200&lines=Hi+Nice+to+meet+you+%F0%9F%AB%B1%F0%9F%8F%BC%E2%80%8D%F0%9F%AB%B2%F0%9F%8F%BB+;My+name+is+Ankit+Kashyap;I'm+a+Full+Stack+Developer" alt="Typing SVG"  width="70%" /></a>
+<img src="https://raw.githubusercontent.com/Ankuxkashyap/Ankuxkashyap/main/assets/avatar_1747346587.png" width="180" align="right" style="border-radius:50%;" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&center=true&vCenter=true&width=900&height=120&lines=Hi+Nice+to+meet+you+👋;My+name+is+Ankit+Kashyap;I'm+a+Full+Stack+Developer" width="70%" />
+
 <br><br>
 
-
-  <pre>
-💼BrainStation • Back-End Dev • Front-End Dev
+<pre>
+💼 BrainStation • Back-End Dev • Front-End Dev
 💻 JavaScript • React • Node.js • Express • MongoDB
 🎮 Music • Gaming • Coding
-📫 Reach me at **ankitdochak_0001@gmail.com**
-  <br>
-  You can find me on:
-   <a href="https://www.linkedin.com/in/ankitkashyap-dev/" target="_blank">LinkedIn</a> · 
-    <a href="https://x.com/AnkuxKashyap" target="_blank">X (Twitter)</a>
-  </pre>
-  <br><br>
+📫 Reach me at: ankitdochak_0001@gmail.com
 
-  <div align="center">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankuxkashyap&layout=compact&theme=dracula" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ankuxkashyap&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Ankuxkashyap" />
-  </div>
-  <br>
-  ## 🐍 Contribution Snake
+You can find me on:
+LinkedIn → https://www.linkedin.com/in/ankitkashyap-dev/
+X (Twitter) → https://x.com/AnkuxKashyap
+</pre>
 
-![snake gif](https://github.com/Ankuxkashyap/Ankuxkashyap/blob/output/github-contribution-grid-snake.svg)
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ankuxkashyap&show_icons=true&theme=dracula" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankuxkashyap&layout=compact&theme=dracula" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankuxkashyap&theme=tokyonight" />
+
+<br><br>
+
+<h2>🐍 Contribution Snake</h2>
+
+<img src="https://github.com/Ankuxkashyap/Ankuxkashyap/blob/output/github-contribution-grid-snake.svg" />
+
 </div>
