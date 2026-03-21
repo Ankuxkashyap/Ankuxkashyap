@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ankuxkashyap/Ankuxkashyap/main/assets/avatar_1747346587.png" width="180" align="right" style="border-radius:50%;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&center=true&vCenter=true&width=900&height=120&lines=Hi+Nice+to+meet+you+👋;My+name+is+Ankit+Kashyap;I'm+a+Full+Stack+Developer" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=40&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Hi+Nice+to+meet+you+%F0%9F%91%8B;My+name+is+Ankit+Kashyap;I%27m+a+Full+Stack+Developer" />
 
 <br><br>
 
